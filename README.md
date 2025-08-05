@@ -20,6 +20,7 @@ The core of this project is a supervised machine learning model that operates on
 ## Setup and Installation
 
 To run this notebook, you will need to set up a Python environment and install the required packages.
+Before you create the environment, please download the following files and place them in 'dataset/' folder. https://drive.google.com/drive/u/2/folders/1R8YlA06JcFnKOv9hLxQzaWsoWMfJHsfs 
 
 1.  **Create a Virtual Environment:**
     ```bash
